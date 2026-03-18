@@ -148,8 +148,8 @@ export const resumeContent: Record<Locale, ResumeContent> = {
       en: 'English',
     },
     nav: {
-      kicker: 'CV interactivo',
-      note: 'React + Tailwind CSS + Vite',
+      kicker: 'Backend Developer',
+      note: 'Durango, Mexico',
     },
     hero: {
       badge: 'Disponible para oportunidades backend y full-stack',
@@ -365,7 +365,7 @@ export const resumeContent: Record<Locale, ResumeContent> = {
         },
       },
     },
-    footerNote: 'Sitio creado como CV interactivo bilingue en React, Tailwind CSS y Vite.',
+    footerNote: 'Disponible para oportunidades backend y full-stack.',
   },
   en: {
     metaTitle: 'Miguel Martinez | Backend & Full-Stack Resume',
@@ -383,8 +383,8 @@ export const resumeContent: Record<Locale, ResumeContent> = {
       en: 'English',
     },
     nav: {
-      kicker: 'Interactive resume',
-      note: 'React + Tailwind CSS + Vite',
+      kicker: 'Backend Developer',
+      note: 'Durango, Mexico',
     },
     hero: {
       badge: 'Open to backend and full-stack opportunities',
@@ -600,6 +600,6 @@ export const resumeContent: Record<Locale, ResumeContent> = {
         },
       },
     },
-    footerNote: 'This site was built as a bilingual interactive resume with React, Tailwind CSS, and Vite.',
+    footerNote: 'Open to backend and full-stack opportunities.',
   },
 }
